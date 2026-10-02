@@ -1,0 +1,4 @@
+id,name,department,email,status,basic,allowances,deductions,overtimeHours,overtimeRate,paidDays,workingDays
+"EMP100","Ankitraj Jha","Engineering","Ankit@gmail.com","Active","50000","5000","2000","10","300","24","26"
+"EMP101","Shubh","IT","Shubh@gmail.com","Active","70000","5000","3000","15","300","30","30"
+"EMP102","Soham Patil","HR","soham@gmail.com","Active","200000","5000","5000","15","300","30","30"

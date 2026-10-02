@@ -1,0 +1,9 @@
+# Build output
+out/
+bin/
+*.class
+
+# Temporary and system files
+.DS_Store
+*.tmp
+*.log
